@@ -1,15 +1,17 @@
-<!--# Emmanuel Fernandez -->
+# Emmanuel Fernandez
 
-<!--<img src="https://raw.githubusercontent.com/DerSarco/curriculums/main/banner.jpeg">-->
+<img src="/assets/images/banner.png">
 
-## Hi 👋, my name is Emmanuel! 
-I'm an android developer from Buenos Aires, Argentina (🇦🇷) :star: :star: :star: 
+## Hi 👋, my name is Emmanuel!
+
+I'm an android developer from Buenos Aires, Argentina (🇦🇷) :star: :star: :star:
 
 ## What do you need to know about me 🧉
 
 - 💬 Ask me about: **horror movies, anime, series, F1 or football.**
 
 #### Feel free to talk to me on my social media 🤗
+
 <p>
 <a href="https://www.linkedin.com/in/emmafernandez2x/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
@@ -23,6 +25,7 @@ I'm an android developer from Buenos Aires, Argentina (🇦🇷) :star: :star: :
 </p>
 
 ## Languages and Tools
+
 <p>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -32,7 +35,6 @@ I'm an android developer from Buenos Aires, Argentina (🇦🇷) :star: :star: :
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <p/>
-
 
 ## Stats
 
