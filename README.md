@@ -1,14 +1,14 @@
-# Emmanuel Fernandez
-
-<img src="/assets/images/banner.png">
-
-## Hi 👋, my name is Emmanuel!
-
-I'm an android developer from Buenos Aires, Argentina (🇦🇷) :star: :star: :star:
+<div align="center">
+  <h1> Hi 👋, my name is Emmanuel! </h1>
+  <img src="/assets/images/banner.png">
+</div>
 
 ## What do you need to know about me 🧉
 
-- 💬 Ask me about: **horror movies, anime, series, F1 or football.**
+I'm an android developer from Buenos Aires, Argentina (🇦🇷) :star: :star: :star:
+
+💬 Favourite topics: **horror movies, anime, series, F1 or football.** </br>
+🏃‍♂️ Hobbies: **running, watch movies**
 
 #### Feel free to talk to me on my social media 🤗
 
